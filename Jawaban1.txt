@@ -1,0 +1,15 @@
+PARADIGMA PEMROGRAMAN
+Paradigma Pemrograman adalah suatu gaya, teknik, atau cara penulisan suatu program. Dalam memecahkan masalah yang sama dapat menggunakan paradigma yang berbeda, seperti halnya terdapat beberapa rute untuk mencapai dari satu desa ke desa lainnya. Namun, jenis masalah tertentu lebih cocok secara alami dengan paradigma tertentu.
+
+Jenis Jenis Paradigma Pemrograman
+-Imperatif
+  Paradigma ini didasarkan pada konsep yang mengasumsikan bahwa komputer dapat mempertahankan lingkungan variabel pada setiap perubahan dalam proses komputasi. Dalam paradigma imperatif bahasa pemrograman berhubungan dengan pemanggilan prosedur yang disebut juga rutinitas atau fungsi.
+-Object-Oriented Programming (OOP)
+  Paradigma pemrograman berorientasi objek atau Object-oriented programming paradigm (OOP) memiliki keunggulan dalam modularitas kode dan kemampuan untuk mengaitkan masalah bisnis secara langsung dalam hal kode. Paradigma berorientasi objek (OOP) memiliki keamanan yang tinggi dengan penggunaan enkapsulasi dan mekanisme abstraksi.
+-Fungsional
+  Paradigma pemrograman fungsional adalah bahasa pemrograman dengan pemanggilan fungsi dimana setiap bagian program dapat dipahami sebagai suatu fungsi. Paradigma pemrograman fungsional menggunakan serangkaian fungsi matematika yang membentuk blok bangunan program dan melakukan segala macam tugas. Komputasi digunakan sebagai evaluasi fungsi matematika data yang dapat merubah serta perubahan status.
+-Logical
+  Paradigma logical mengambil pendekatan deklaratif untuk pemecahan masalah. Serangkaian definisi atau deklarasi yang mendefinisikan domain masalah. Keuntungan menggunakan menggunakan paradigma pemrograman logika yaitu sistem memecahkan masalah sehingga langkah-langkah untuk pemrograman dijaga agar tetap dalam status minimum. Selain itu dalam pembuktian validitas program tergolong sederhana.
+
+PEMROGRAMAN BERORIENTASI OBJEK
+Pemrograman berorientasi objek (Object Oriented Programming atau disingkat OOP) adalah paradigma pemrograman yang berorientasikan kepada objek yang merupakan suatu metode dalam pembuatan program, dengan tujuan untuk menyelesaikan kompleksnya berbagai masalah program yang terus meningkat. Objek adalah entitas yang memiliki atribut, karakter (bahavour) dan kadang kala disertai kondisi (state)

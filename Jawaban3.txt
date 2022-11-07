@@ -1,0 +1,10 @@
+for val in 'bahasa':
+    if val == 'h':
+        continue
+        #break
+    print(val)
+print('selesai')
+
+Looping dengan continue : Karena val adalah huruf h maka akan di print semua huruf dari 'bahasa' kecuali huruf h
+
+Looping dengan break : Karena val adalah huruf h maka akan di print semua huruf sebelum huruf h yaitu b dan a
